@@ -7,3 +7,4 @@ test/main.py
 #Guranteed test
 
 #rel_1.0
+#feature2_rel1.0
