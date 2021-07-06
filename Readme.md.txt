@@ -11,3 +11,4 @@ test/main.py
 #base feature1
 #feature2_rel1.0
 #feature_rel1.2
+#bug fix for base feature
